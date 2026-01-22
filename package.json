@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishanttdhiman/Thinkboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nishanttdhiman/Thinkboard/issues"
+  },
+  "homepage": "https://github.com/nishanttdhiman/Thinkboard#readme"
 }
